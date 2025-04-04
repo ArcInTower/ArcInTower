@@ -1,4 +1,4 @@
-# 🏗️ ArcInTower
+# ArcInTower (ARC)
 
 <div align="right">
   <a href="#english">🇺🇸 English</a> |
